@@ -1,0 +1,152 @@
+body{
+	background-color: #a6dff7;
+}
+
+.btn-outline-secondary{
+	border: 0px;
+	color: #000000;
+	text-align: center;
+}
+
+.navbar-light{
+	background-color: #e3f2fd;
+}
+
+.d-flex{
+	position: absolute;
+	left:500px;
+}
+
+.photo_style{
+	position: absolute;
+	top: 110px;
+	left: 50px;
+}
+
+.info{
+	position: absolute;
+	left: 380px;
+	top: -5px;
+}
+
+.text_profile{
+	white-space: nowrap;
+}
+
+form.login_form {
+    max-width: 450px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: #d7f1fc;
+    padding: 10px;
+}
+
+.loginForm{
+	margin-left: 380px;
+	margin-top: -110px
+}
+
+.btns{
+	display: inline-block;
+	position: relative;
+	left: 0px;
+	top: 5px;
+	width: 301px;
+}
+
+.delete{
+	margin-left: 10px;
+}
+
+.writeNew{
+	position: absolute;
+	top: 130px;
+}
+
+.reviews_user{
+	position: absolute;
+	top: 150px;
+}
+
+.profile_info{
+	position: absolute;
+	left: 350px;
+	top: -10px;
+}
+
+.label_file{
+	margin-top: 10px;
+	width: 301px;
+    height: 50px;
+    border-radius: 4px;
+    text-align: center;
+    cursor: pointer;
+    display: block;
+    transition: all 0.18s ease-in-out;
+}
+
+.input__wrapper {
+	left: -273px;
+	width: 100%;
+	position: absolute;
+	margin-top: 15px;
+	text-align: center;
+}
+
+.input__file {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+}
+
+.input__file-icon-wrapper {
+    height: 60px;
+    width: 60px;
+    margin-right: 10px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    border-right: 1px solid #fff;
+}
+
+.input__file-button-text {
+    line-height: 1;
+    margin-top: 1px;
+}
+
+.input__file-button {
+    width: 100%;
+    max-width: 200px;
+    height: 60px;
+    border-right: 1px solid #0d6efd;
+    background: #0d6efd;
+    color: #fff;
+    font-size: 1.125rem;
+    font-weight: 350;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-left: 272px;
+}
+
+.confirm_new_photo{
+	position: absolute;
+	left: 480px;
+	top: 0px;
+	width: 94px;
+	height: 60px;
+}

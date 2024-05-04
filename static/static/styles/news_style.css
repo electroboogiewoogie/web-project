@@ -1,0 +1,40 @@
+body{
+	background-color: #a6dff7;
+}
+
+.navbar-light{
+	background-color: #e3f2fd;
+}
+
+.btn-outline-secondary{
+	border: 0px;
+	color: #000000;
+	text-align: center;
+}
+
+.d-flex{
+	position: absolute;
+	left:500px;
+}
+
+form.login_form {
+    max-width: 450px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: #d7f1fc;
+    padding: 10px;
+}
+
+.loginForm{
+	margin-left: 700px;
+}
+
+.btns{
+	display: inline-block;
+	margin-top: 15px;
+	margin-left: 10px;
+}
+
+.btn-primary.delete{
+	margin-left: 10px;
+}
